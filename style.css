@@ -134,10 +134,10 @@ button{
 }
 
 .message {
-    font-size: 15px;
+    font-size: 12px;
     color: #ff0080;
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 8px;
 }
 .message2 {
     padding: 10px;
